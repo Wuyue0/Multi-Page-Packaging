@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>这是首页</title>
+</head>
+<body>
+    <%= require('html-loader!./include/header.html')%>
+    <div class="box">
+        首页内容
+        <button  class="btn btn-success">一个按钮</button>
+        <button  class="btn btn-success">一个按钮</button>
+    </div>
+
+    <img src="<%=require('../src/assets/img/11.jpg').default%>" alt="">
+    
+    <%= require('html-loader!./include/tail.html')%>  
+</body>
+</html>

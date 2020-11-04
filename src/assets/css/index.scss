@@ -1,0 +1,8 @@
+$bg-color: #ee3;
+.box{
+    background-image: url(../img/2.jpg);
+    background-color: $bg-color;
+    display: flex;
+    height: 500px;
+    width: 600px;
+}
