@@ -8,7 +8,7 @@ README
 目录结构
 =========================
 
-···
+```
 ├── public						存放html模板页面 							
 │   ├── include				    存放公共的html代码片段
 │   │   ├── header.html 
@@ -28,4 +28,4 @@ README
 ├── static              静态文件，这些文件将会原封不动拷贝到发布的assets目录中
 ├── readme.md	
 ├── package.json  			依赖的js文件，启动脚本
-···
+```
