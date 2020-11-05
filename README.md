@@ -9,7 +9,7 @@ README
 =========================
 
 ```
-├── public					   存放html模板页面 							
+├── public					   存放html模板页面		
 │   ├── include				存放公共的html代码片段
 │   │   ├── header.html 
 │   │   └── tail.html
