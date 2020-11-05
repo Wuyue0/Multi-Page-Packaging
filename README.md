@@ -29,3 +29,19 @@ README
 ├── readme.md	
 ├── package.json          依赖的js文件，启动脚本
 ```
+运行安装
+=======
+1. 克隆项目 git clone https://github.com/Wuyue0/Multi-Page-Packaging.git
+2. 开发环境 npm run start
+3. 打包环境 npm run build
+
+
+
+
+
+
+
+
+
+
+
